@@ -15,6 +15,7 @@ node_modules/
 # Folders
 _obj
 _test
+_assets
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
@@ -47,13 +48,13 @@ Temporary Items
 .tmp
 #.sass-cache
 
-#/images/*
+/img/
 #*.ogg
 #*.mp3
 #*.mp4
 #*.png
 #*.jpeg
-#*.psd
+*.psd
 
 ### Node ###
 # Logs
